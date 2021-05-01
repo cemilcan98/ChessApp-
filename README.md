@@ -1,6 +1,8 @@
 ### Run
 ```
  python -m SimpleHTTPServer 5000
+ 
+ python -m http.server 5000
 
  http://localhost:5000/
 
